@@ -46,7 +46,7 @@ Pour Host-Only : enp0s8 ( DOWN )
 
 ![usb](usb.png) 
 
-- Verifictaion ADB dans Mobexler , le device n'affiche pas le peripherique , mais il est bien lien en USB :
+- Verification  ADB dans Mobexler , le device n'affiche pas le peripherique , mais il est bien lien en USB :
 
 ![attached](attached.png) 
 

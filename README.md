@@ -22,6 +22,10 @@ Identification de Reseau , adapter 1 et 2 :
 Pour le NAT : enp0s17 : 10.0.2.15 ( UP ) 
 Pour Host-Only : enp0s8 ( DOWN ) 
 
+- Verification des routes :
+
+![ip-route](ip-route.png)
+
 
 
 

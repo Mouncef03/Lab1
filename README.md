@@ -37,7 +37,11 @@ Pour Host-Only : enp0s8 ( DOWN )
 - La creation du Snapshot :
 
 
-![snapshot](snapshot.png)
+![snapshot](snapshot.png) 
+
+- Donc on va activer loption pour les developpeur + USB debbuging :
+
+
 
 
 

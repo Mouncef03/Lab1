@@ -42,6 +42,13 @@ Pour Host-Only : enp0s8 ( DOWN )
 - Donc on va activer loption pour les developpeur + USB debbuging :
 
 
+![dev1](dev1.png) 
+
+![usb](usb.png) 
+
+- Verifictaion ADB dans Mobexler , le device n'affiche pas le peripherique , mais il est bien lien en USB :
+
+![attached](attached.png) 
 
 
 

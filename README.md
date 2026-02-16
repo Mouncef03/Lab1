@@ -37,6 +37,8 @@ Pour Host-Only : enp0s8 ( DOWN )
 - La creation du Snapshot :
 
 
+![snapshot](snapshot.png)
+
 
 
 

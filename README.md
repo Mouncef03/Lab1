@@ -32,6 +32,8 @@ Pour Host-Only : enp0s8 ( DOWN )
 ![ping1](ping1.png)
 
 
+![ping2](ping2.png)
+
 
 
 

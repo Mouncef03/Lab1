@@ -34,6 +34,10 @@ Pour Host-Only : enp0s8 ( DOWN )
 
 ![ping2](ping2.png)
 
+- La creation du Snapshot :
+
+
+
 
 
 

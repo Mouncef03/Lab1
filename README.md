@@ -2,7 +2,13 @@
 
 Verification de l'integrite 
 
-![FileHash](FileHash.png)
+![FileHash](FileHash.png) 
+
+Identification de Reseau , adapter 1 et 2 : 
+
+![network-nat](network-nat.png)
+
+
 
 
 

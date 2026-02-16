@@ -14,7 +14,7 @@ Identification de Reseau , adapter 1 et 2 :
 
 ![mobexler](mobexler.png)
 
-- Verification de L'IPs , avec lidentification des interface NAT et Host-Only :
+- Verification de L'IPs , avec l'identification des interfaces NAT et Host-Only :
 
 
 ![ip-a](ip-a.png)
@@ -25,6 +25,12 @@ Pour Host-Only : enp0s8 ( DOWN )
 - Verification des routes :
 
 ![ip-route](ip-route.png)
+
+
+- Test d'Internet :
+
+![ping1](ping1.png)
+
 
 
 
